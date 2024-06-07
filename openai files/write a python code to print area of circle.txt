@@ -1,0 +1,12 @@
+
+
+#Python Program to Calculate Area of a Circle 
+
+pi = 3.142
+#User 
+radius = float(input('Please Enter the Radius of a Circle: '))
+
+#Calculate Area of Circle
+area = pi * radius * radius
+
+print("Area Of a Circle = %.2f" %area)
