@@ -1,3 +1,5 @@
 venv
 my_api_keys.py
 rough.py
+.idea
+__pycache__
